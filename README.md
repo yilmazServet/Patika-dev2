@@ -1,3 +1,3 @@
 # Servet YILMAZ
 Patika 2.ödev için oluşturulmuştur..
-[Github linki](https://github.com/yilmazServet)
+[Github linkim için tıklayınız.](https://github.com/yilmazServet)
